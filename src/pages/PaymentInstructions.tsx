@@ -20,8 +20,8 @@ const PaymentInstructions = () => {
 
   const amount = "6,700";
   const accountNumber = "8154125360";
-  const bankName = "MONIEPOINT MFB";
-  const accountName = "OROWOLE AKINYEMI";
+  const bankName = "SMARTCASH";
+  const accountName = "AROWOJOLU GIFT MONDAY";
   const referenceId = `REF${Date.now()}`;
 
   const copyToClipboard = (text: string, field: string) => {
